@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "409431301612",
+    "firebase_url": "https://eshop-b792c.firebaseio.com",
+    "project_id": "eshop-b792c",
+    "storage_bucket": "eshop-b792c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409431301612:android:2aeb7a2e7b22bce46ab4c9",
+        "android_client_info": {
+          "package_name": "com.kood.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409431301612-jp5pcd4cf4sjpecfob83k95tq7t6t6nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHtgOSwYDd7Krr3JeMsQ97mTvsiG9prVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409431301612-jp5pcd4cf4sjpecfob83k95tq7t6t6nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
