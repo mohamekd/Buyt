@@ -1,6 +1,6 @@
 
 
-Flutter Android & iOS eCommerce App like Amazon | FlipKart | AliExpress | Daraz using Firebase Firestore.
+Flutter Android & iOS e-Commerce App like Amazon , Jumia and similar to OLX using Firebase Firestore.
 
 Developed by: Mohamed Abdalla
 
